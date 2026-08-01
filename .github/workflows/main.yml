@@ -7,7 +7,7 @@ on:
     
 
 jobs:
-  build:
+  System_Info:
     runs-on: ubuntu-latest
 
     steps:

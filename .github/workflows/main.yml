@@ -16,3 +16,6 @@ jobs:
       
     - name: Show OS Info
       run: cat /etc/os-release
+
+    - name: Show Date and Time
+      run: date

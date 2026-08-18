@@ -1,5 +1,4 @@
-# CISC/CYOM 569 - DevSecOps
-# Lab 3: Create a Basic CI/CD Pipeline for a Hello World Web App
+# CISC/CYOM 569 - DevSecOps Lab 3: Create a Basic CI/CD Pipeline for a Hello World Web App
 
 This project was completed as part of CISC/CYOM 569 - DevSecOps Lab 3. The lab focused on getting familiar with GitHub Actions, basic CI/CD workflows, and Docker.
 
